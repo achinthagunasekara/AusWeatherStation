@@ -1,8 +1,5 @@
 #Aus Weather Station
 
-##About Me
-Achintha Gunasekara
-
 ##About App
 
 This application uses the Open Weather Map (http://openweathermap.org/api) to retrieve weather information for a specific location and display it to the user. 
