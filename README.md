@@ -1,7 +1,7 @@
 #Aus Weather Station
 
 ##About Me
-Archie Gunasekara
+Achintha Gunasekara
 
 ##About App
 
