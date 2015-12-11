@@ -2,6 +2,8 @@
 
 ##About App
 
+![Icon](icon_retna.png)
+
 This application uses the Open Weather Map (http://openweathermap.org/api) to retrieve weather information for a specific location and display it to the user. 
 
 Please visit http://openweathermap.org/api for OpenWeatherMap API documention. 
